@@ -3,7 +3,7 @@
 Welcome! I'm thrilled to share my work with you. In this project, I utilized publicly available data from the Our World in Data repository to analyze the global impact of the COVID-19 pandemic. 
 This project serves as a demonstration of my ability to explore and analyze real-world datasets using SQL.
 
-Project Overview
+Project Overview:
 This project focuses on uncovering insights about the COVID-19 pandemic through exploratory data analysis. By writing and executing a series of SQL queries, I analyzed key aspects of the data to answer meaningful questions and extract actionable insights.
 Below are the main objectives and findings of this project:
 Key Objectives 
